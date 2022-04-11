@@ -1,4 +1,4 @@
-### Hi there 👋
+![Codewars](https://www.codewars.com/users/hidanz0r/badges/large/?viewBox="0,0,495,40") <br>
 
 <!--
 **razdva0/razdva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
